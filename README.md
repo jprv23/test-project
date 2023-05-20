@@ -17,13 +17,20 @@ Este proyecto fue realizado con fines laborales. Se utilizó el lenguaje [PHP](h
 `git clone https://github.com/jprv23/test-project.git`
 
 #### Paso 2:
+- Copiar el **.env.example** y renombrar la copia como **.env**
+
+#### Paso 3:
+- Es obligatorio tener previamente instalado [composer](https://getcomposer.org "composer"). Ejecutar el siguiente comando para descargar las dependencias del proyecto
+` composer update`
+
+#### Paso 4:
 - Crear una base de datos con el nombre **test** . En caso de crear con otro nombre configurar en el **.env**. Luego ejecutamos
 
 ` php artisan migrate:fresh --seed`
 
 Este comando nos creará la base de datos y ejecutará un seeder, el cuál registrará un usuario por efecto para ingresar al sistema.
 
-#### Paso 3:
+#### Paso 5:
 - Ejecutar el siguiente comando para levantar el proyecto
 
 `php artisan serve`
