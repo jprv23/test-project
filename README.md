@@ -30,7 +30,7 @@ Este comando nos creará la base de datos y ejecutará un seeder, el cuál regis
 
 - Podemos visualizar el sistema ingresando a **http://127.0.0.1:8000**
 
-**Credenciales Admin**
+**Credenciales Admin**  
 admin@gmail.com  
 123456789
 
@@ -38,5 +38,6 @@ admin@gmail.com
 
 
 ## Soporte
-**PHP version:**  >=8.1 y **Laravel version:**  10
+**PHP version:**  >=8.1  
+**Laravel version:**  10
 
