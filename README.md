@@ -38,6 +38,5 @@ admin@gmail.com
 
 
 ## Soporte
-**PHP version:**  >=8.1
-**Laravel version:**  10
+**PHP version:**  >=8.1 y **Laravel version:**  10
 
