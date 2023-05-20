@@ -21,6 +21,7 @@ Este proyecto fue realizado con fines laborales. Se utilizó el lenguaje [PHP](h
 
 #### Paso 3:
 - Es obligatorio tener previamente instalado [composer](https://getcomposer.org "composer"). Ejecutar el siguiente comando para descargar las dependencias del proyecto
+
 ` composer update`
 
 #### Paso 4:
