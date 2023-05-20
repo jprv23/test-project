@@ -1,0 +1,38 @@
+.help-block.form-error {
+    color: #b94a48 !important;
+}
+
+input:focus-visible {
+    outline: 0;
+}
+
+.select2-container .select2-selection--single {
+    height: 37px!important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 34px!important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 36px!important;
+}
+
+.input-group{
+    flex-wrap: nowrap;
+}
+.input-group button{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-control:focus {
+    border-color: #212529;
+    outline: 0;
+    box-shadow: none;
+}
+
+.close{
+    background: none;
+    border: 0;
+    font-size: 20px;
+}
