@@ -29,7 +29,7 @@ Este proyecto fue realizado con fines laborales. Se utilizó el lenguaje [PHP](h
 
 ` php artisan migrate:fresh --seed`
 
-Este comando nos creará la base de datos y ejecutará un seeder, el cuál registrará un usuario por efecto para ingresar al sistema.
+Este comando nos creará las tablas en la base de datos y ejecutará un seeder, el cuál registrará un usuario por efecto para ingresar al sistema.
 
 #### Paso 5:
 - Ejecutar el siguiente comando para levantar el proyecto
