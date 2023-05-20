@@ -12,7 +12,7 @@ Este proyecto fue realizado con fines laborales. Se utilizó el lenguaje [PHP](h
 ## Instalación
 #### Paso 1:
 - **1 forma** Dar click en Code y luego en Download ZIP.
-- **2 forma** Crear una carpeta, ingresar a git bash y ejecutar
+- **2 forma** Crear una carpeta e ingresar a la consola y ejecutar
 
 `git clone https://github.com/jprv23/test-project.git`
 
