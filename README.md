@@ -1,4 +1,4 @@
-#Prueba Técnica
+# Prueba Técnica  
 Este proyecto fue realizado con fines laborales. Se utilizó el lenguaje [PHP](https://es.wikipedia.org/wiki/PHP "PHP") y el framework [Laravel](https://laravel.com/ "Laravel")
 ## Vista Previa
 ### Inicio
